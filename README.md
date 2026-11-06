@@ -2,7 +2,7 @@
 
 这是 [Cursor 文档](https://cursor.com/docs) 的简体中文译文。正文已翻译；产品名（Cursor、Agent、Tab、Plan Mode 等）、界面标签、代码、命令和链接保持原样。每页第一行是原文 URL。
 
-目前已翻译 135 页。文档站点中其余页面的译文会继续补进本索引。
+目前已翻译 132 页。文档站点中其余页面的译文会继续补进本索引。
 
 | 标题 | 译文 | 原文 |
 | --- | --- | --- |
@@ -108,9 +108,6 @@
 | Tailscale | [integrations/tailscale.md](integrations/tailscale.md) | https://cursor.com/docs/integrations/tailscale |
 | Xcode | [integrations/xcode.md](integrations/xcode.md) | https://cursor.com/docs/integrations/xcode |
 | Model Context Protocol (MCP) | [mcp.md](mcp.md) | https://cursor.com/docs/mcp |
-| Grok 4.6 | [models/grok-4-6.md](models/grok-4-6.md) | https://cursor.com/docs/models/grok-4-6 |
-| Grok 4.7 | [models/grok-4-7.md](models/grok-4-7.md) | https://cursor.com/docs/models/grok-4-7 |
-| Muse Wonder | [models/muse-wonder.md](models/muse-wonder.md) | https://cursor.com/docs/models/muse-wonder |
 | 模型与定价 | [models-and-pricing.md](models-and-pricing.md) | https://cursor.com/docs/models-and-pricing |
 | Agents 与自动化 | [origin/agents.md](origin/agents.md) | https://cursor.com/docs/origin/agents |
 | 构建 Origin App | [origin/apps/build-app.md](origin/apps/build-app.md) | https://cursor.com/docs/origin/apps/build-app |
