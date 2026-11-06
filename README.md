@@ -2,7 +2,7 @@
 
 这是 [Cursor 文档](https://cursor.com/docs) 的简体中文译文。正文已翻译；产品名（Cursor、Agent、Tab、Plan Mode 等）、界面标签、代码、命令和链接保持原样。每页第一行是原文 URL。
 
-目前已翻译 147 页。文档站点中其余页面的译文会继续补进本索引。
+目前已翻译 135 页。文档站点中其余页面的译文会继续补进本索引。
 
 | 标题 | 译文 | 原文 |
 | --- | --- | --- |
@@ -108,21 +108,9 @@
 | Tailscale | [integrations/tailscale.md](integrations/tailscale.md) | https://cursor.com/docs/integrations/tailscale |
 | Xcode | [integrations/xcode.md](integrations/xcode.md) | https://cursor.com/docs/integrations/xcode |
 | Model Context Protocol (MCP) | [mcp.md](mcp.md) | https://cursor.com/docs/mcp |
-| （无标题） | [models/claude-fable-5-1.md](models/claude-fable-5-1.md) | https://cursor.com/docs/models/claude-fable-5-1 |
-| （无标题） | [models/claude-haiku-5-5.md](models/claude-haiku-5-5.md) | https://cursor.com/docs/models/claude-haiku-5-5 |
-| （无标题） | [models/claude-opus-5-5.md](models/claude-opus-5-5.md) | https://cursor.com/docs/models/claude-opus-5-5 |
-| （无标题） | [models/claude-sonnet-5-5.md](models/claude-sonnet-5-5.md) | https://cursor.com/docs/models/claude-sonnet-5-5 |
-| （无标题） | [models/cursor-composer-2-5.md](models/cursor-composer-2-5.md) | https://cursor.com/docs/models/cursor-composer-2-5 |
-| （无标题） | [models/gemini-3-1-pro.md](models/gemini-3-1-pro.md) | https://cursor.com/docs/models/gemini-3-1-pro |
-| （无标题） | [models/gemini-3-8-flash.md](models/gemini-3-8-flash.md) | https://cursor.com/docs/models/gemini-3-8-flash |
-| （无标题） | [models/gemini-4-argon.md](models/gemini-4-argon.md) | https://cursor.com/docs/models/gemini-4-argon |
-| （无标题） | [models/gpt-5-6-luna.md](models/gpt-5-6-luna.md) | https://cursor.com/docs/models/gpt-5-6-luna |
-| （无标题） | [models/gpt-5-6-sol.md](models/gpt-5-6-sol.md) | https://cursor.com/docs/models/gpt-5-6-sol |
-| （无标题） | [models/gpt-5-6-terra.md](models/gpt-5-6-terra.md) | https://cursor.com/docs/models/gpt-5-6-terra |
-| （无标题） | [models/grok-4-5.md](models/grok-4-5.md) | https://cursor.com/docs/models/grok-4-5 |
-| （无标题） | [models/grok-4-6.md](models/grok-4-6.md) | https://cursor.com/docs/models/grok-4-6 |
-| （无标题） | [models/grok-4-7.md](models/grok-4-7.md) | https://cursor.com/docs/models/grok-4-7 |
-| （无标题） | [models/muse-wonder.md](models/muse-wonder.md) | https://cursor.com/docs/models/muse-wonder |
+| Grok 4.6 | [models/grok-4-6.md](models/grok-4-6.md) | https://cursor.com/docs/models/grok-4-6 |
+| Grok 4.7 | [models/grok-4-7.md](models/grok-4-7.md) | https://cursor.com/docs/models/grok-4-7 |
+| Muse Wonder | [models/muse-wonder.md](models/muse-wonder.md) | https://cursor.com/docs/models/muse-wonder |
 | 模型与定价 | [models-and-pricing.md](models-and-pricing.md) | https://cursor.com/docs/models-and-pricing |
 | Agents 与自动化 | [origin/agents.md](origin/agents.md) | https://cursor.com/docs/origin/agents |
 | 构建 Origin App | [origin/apps/build-app.md](origin/apps/build-app.md) | https://cursor.com/docs/origin/apps/build-app |
